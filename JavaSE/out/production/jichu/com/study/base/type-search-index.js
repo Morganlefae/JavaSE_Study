@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.study.base","l":"Doc"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();
