@@ -1,4 +1,4 @@
-package base;
+package com.study.base;
 
 public class Demo3 {
     //实例变量：从属于对象 不初始化则为0， non-primitive 为null

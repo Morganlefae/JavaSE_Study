@@ -1,13 +1,16 @@
-package com.OOP.demo02;
+package com.OOP;
+import com.OOP.demo09.*;
 
 public class Application {
     public static void main(String[] args) {
-        //new 实例化了一个对象
-
-        Person person = new Person();
-        System.out.println(person.name);
-        Person p = new Person("ZZZ");
-        System.out.println(p.name);
+        int i = 0;
+        while (i < 5) {
+            System.out.println(i);
+            for (int j = 0; j < 3; j++) {
+                System.out.println("j:" + j);
+                if (j == 2) break;
+            }
+            System.out.println(i);
+        }
     }
-
 }

@@ -1,0 +1,18 @@
+Integer
+优点：
+1.某些方法的参数必须是对象，为了让基本数据类型，作为参数提供包装类
+2.更多功能
+3.实现字符串和基本数据类型的转换
+缺点
+1.包装类的对象需要占用栈内存和堆内存，而基本数据类型的变量只占用栈内存
+2.作为成员变量初始值 0 null
+包装类的使用
+1.auto-boxing
+auto-unboxing
+```java
+   public static Integer valueOf(int i) {
+        if (i >= IntegerCache.low && i <= IntegerCache.high)
+            return IntegerCache.cache[i + (-IntegerCache.low)];
+        return new Integer(i);
+    }
+```

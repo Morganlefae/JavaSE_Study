@@ -1,6 +1,4 @@
-package base;
-
-import java.awt.*;
+package com.study.base;
 
 public class Demo2 {
     public static void main(String[] args) {

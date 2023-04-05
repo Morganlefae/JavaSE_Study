@@ -1,4 +1,4 @@
-package base;
+package com.study.base;
 
 import java.util.ArrayList;
 

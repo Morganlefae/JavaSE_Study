@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1053]Previous Permutation With One Swap.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1053]Previous Permutation With One Swap.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1053" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1053]Previous Permutation With One Swap.java" />
+              <option name="titleSlug" value="previous-permutation-with-one-swap" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1637]Widest Vertical Area Between Two Points Containing No Points.java">
           <value>
             <LeetcodeEditor>
@@ -44,6 +55,50 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2367]Number of Arithmetic Triplets.java" />
               <option name="titleSlug" value="number-of-arithmetic-triplets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2]Add Two Numbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[2]Add Two Numbers.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2]Add Two Numbers.java" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[570]Managers with at Least 5 Direct Reports.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[570]Managers with at Least 5 Direct Reports.md" />
+              <option name="frontendQuestionId" value="leetcode.cn570" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[570]Managers with at Least 5 Direct Reports.java" />
+              <option name="titleSlug" value="managers-with-at-least-5-direct-reports" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[831]Masking Personal Information.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[831]Masking Personal Information.md" />
+              <option name="frontendQuestionId" value="leetcode.cn831" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[831]Masking Personal Information.java" />
+              <option name="titleSlug" value="masking-personal-information" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[979]Distribute Coins in Binary Tree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[979]Distribute Coins in Binary Tree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn979" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[979]Distribute Coins in Binary Tree.java" />
+              <option name="titleSlug" value="distribute-coins-in-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>

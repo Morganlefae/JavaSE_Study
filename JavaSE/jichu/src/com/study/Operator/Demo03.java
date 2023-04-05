@@ -1,4 +1,4 @@
-package Operator;
+package com.study.Operator;
 
 public class Demo03 {
     public static void main(String[] args) {
